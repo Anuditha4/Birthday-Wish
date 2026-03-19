@@ -1,0 +1,35 @@
+<html>
+<head>
+  <title>Happy Birthday ❤️</title>
+  <style>
+    body {
+      text-align: center;
+      background: pink;
+      font-family: Arial;
+    }
+    h1 {
+      margin-top: 100px;
+      font-size: 40px;
+    }
+    p {
+      font-size: 20px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Happy Birthday My Love ❤️</h1>
+  <p>You are the best thing in my life 💖</p>
+  <p>I made this just for you 🎂</p>
+
+  <button onclick="playMusic()">Click Me 🎵</button>
+
+  <script>
+    function playMusic() {
+      alert("I love you ❤️");
+    }
+  </script>
+
+</body>
+</html>
